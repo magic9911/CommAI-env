@@ -1,0 +1,32 @@
+2017-03-01 16:43:15,824 - __main__ - INFO - Starting new evaluation session
+2017-03-01 16:43:58,555 - __main__ - INFO - Starting new evaluation session
+2017-03-01 16:46:33,566 - __main__ - INFO - Starting new evaluation session
+2017-03-01 16:46:40,783 - __main__ - INFO - Starting new evaluation session
+2017-03-01 16:47:05,939 - __main__ - INFO - Starting new evaluation session
+2017-03-01 16:48:07,909 - __main__ - INFO - Starting new evaluation session
+2017-03-01 16:48:24,753 - __main__ - INFO - Starting new evaluation session
+2017-03-01 16:48:57,907 - __main__ - INFO - Starting new evaluation session
+2017-03-01 16:49:48,668 - __main__ - INFO - Starting new evaluation session
+2017-03-01 16:50:13,313 - __main__ - INFO - Starting new evaluation session
+2017-03-01 16:51:48,623 - __main__ - INFO - Starting new evaluation session
+2017-03-01 16:51:48,651 - worlds.grid_world - INFO - Droped an entity avocado at position Point(1,0)
+2017-03-01 16:52:01,804 - __main__ - INFO - Starting new evaluation session
+2017-03-01 16:52:20,282 - __main__ - INFO - Starting new evaluation session
+2017-03-01 16:52:39,260 - __main__ - INFO - Starting new evaluation session
+2017-03-01 16:53:09,524 - __main__ - INFO - Starting new evaluation session
+2017-03-01 16:53:24,632 - __main__ - INFO - Starting new evaluation session
+2017-03-01 16:53:37,045 - __main__ - INFO - Starting new evaluation session
+2017-03-01 16:53:51,078 - __main__ - INFO - Starting new evaluation session
+2017-03-01 16:53:51,107 - worlds.grid_world - INFO - Droped an entity carrot at position Point(0,1)
+2017-03-01 16:57:03,794 - __main__ - INFO - Starting new evaluation session
+2017-03-01 16:57:03,818 - worlds.grid_world - INFO - Droped an entity onion at position Point(1,0)
+2017-03-01 16:58:52,144 - __main__ - INFO - Starting new evaluation session
+2017-03-01 16:58:52,171 - worlds.grid_world - INFO - Droped an entity carrot at position Point(1,0)
+2017-03-01 16:58:52,171 - worlds.grid_world - INFO - Droped an entity asparagus at position Point(-1,0)
+2017-03-01 16:58:52,171 - worlds.grid_world - INFO - Droped an entity banana at position Point(0,-1)
+2017-03-01 16:58:52,172 - worlds.grid_world - INFO - Droped an entity cucumber at position Point(0,1)
+2017-03-01 17:00:55,198 - __main__ - INFO - Starting new evaluation session
+2017-03-01 17:02:17,646 - __main__ - INFO - Starting new evaluation session
+2017-03-01 17:02:52,118 - __main__ - INFO - Starting new evaluation session
+2017-03-01 17:05:46,327 - __main__ - INFO - Starting new evaluation session
+2017-03-01 17:05:52,340 - __main__ - INFO - Starting new evaluation session

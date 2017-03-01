@@ -55,10 +55,10 @@ def main():
                   help='Maximum reward that we can give to a learner for'
                   ' a given task.')
     opt, args = op.parse_args()
-    if len(args) == 0:
-        op.error("Tasks schedule configuration file required.")
+    # if len(args) == 0:
+    #     op.error("Tasks schedule configuration file required.")
     # retrieve the task configuration file
-    tasks_config_file = args[0]
+    tasks_config_file = "tasks_config.json" #args[0]
     logger = logging.getLogger(__name__)
     logger.info("Starting new evaluation session")
     # we choose how the environment will produce and interpret
